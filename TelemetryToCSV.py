@@ -95,4 +95,3 @@ while True:
         continue
     currTime = time.time()
     flightTime = round(flightTime + sampleRate, 3)
-    
