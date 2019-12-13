@@ -1,5 +1,7 @@
 # RaspberryPiCode
 This repository contains the code to run the Raspberry Pi
+This repository is located at:
+https://github.com/UML-Capstone-Group-i-Rocket-Telemetry
 
 TelemetryToCSV.py is the functioning flight code that is ran to create a flight
 file.
